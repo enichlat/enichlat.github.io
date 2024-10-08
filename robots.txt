@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://enichlat.github.io/sitemap.html.gz
+Sitemap: https://enichlat.github.io/app/sitemap.html.gz
+Sitemap: https://enichlat.github.io/assets/sitemap.html.gz
+Sitemap: https://enichlat.github.io/css/sitemap.html.gz
+Sitemap: https://enichlat.github.io/includes/sitemap.html.gz
+Sitemap: https://enichlat.github.io/item/sitemap.html.gz
+Sitemap: https://enichlat.github.io/src/sitemap.html.gz
